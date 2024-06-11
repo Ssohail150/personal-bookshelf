@@ -1,0 +1,12 @@
+/* src/components/SearchResults.css */
+.search-results {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .book-card {
+    width: 200px;
+  }
+  

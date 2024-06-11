@@ -1,0 +1,22 @@
+/* src/pages/BookSearchPage.css */
+.book-search-page {
+    padding: 20px;
+  }
+  
+  .error-message {
+    color: red;
+    margin: 20px 0;
+    font-size: 16px;
+  }
+  
+  .search-results {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .search-results .book-card {
+    width: 200px;
+  }
+  

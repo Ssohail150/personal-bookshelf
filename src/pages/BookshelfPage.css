@@ -1,0 +1,16 @@
+/* src/pages/BookshelfPage.css */
+.bookshelf-page {
+    padding: 20px;
+  }
+  
+  .bookshelf {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .bookshelf .book-card {
+    width: 200px;
+  }
+  
